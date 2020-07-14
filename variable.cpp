@@ -55,5 +55,5 @@ int main()
     char character;
     printf("Enter a character: ");
     scanf(" %c", &character);
-    printf("Your entered number is: %c\n", character);
+    printf("Your entered character is: %c\n", character);
 }
